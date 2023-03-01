@@ -1,5 +1,5 @@
 boleta = 600
-"""
+
 if boleta == 100 :
   print('boleta baja:100')
 elif boleta == 200:
@@ -10,12 +10,12 @@ elif boleta == 500:
   print('boleta vip:500')
 
 else: 
- print('error')"""
+ print('error')
 
 
  
 
-#empresa wc
+"""#empresa wc
 
  #valor hora
 empleados = "Cuatro empleados"
@@ -43,4 +43,4 @@ elif tipo_proyecto == 2:
 else:
     print ('Tipo de proyecto diferente A y B, por tanto el valor de la hora es $5000')
     print ('El salario mensual da un total de:', sueldo_Otros)
-    print ('Nuevo sueldo mensual:', nuevo_sueldo)
+    print ('Nuevo sueldo mensual:', nuevo_sueldo)"""
